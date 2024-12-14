@@ -1,4 +1,4 @@
  A seguir, o link de cada site criado:
 
-Site android: https://arthurvini778.github.io/Meus-sites/Site%20Android/android.html <br>
-Site TEAL: https://arthurvini778.github.io/Meus-sites/Site%20TEAL/index.html
+<a href="https://arthurvini778.github.io/Meus-sites/Site%20Android/android.html"> Site Android </a> <br>
+<a href="https://arthurvini778.github.io/Meus-sites/Site%20TEAL/index.html"> Site TEAL </a> <br>
