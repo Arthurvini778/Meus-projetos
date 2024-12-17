@@ -1,4 +1,4 @@
- A seguir, o link de cada site criado:
+ A seguir, todos os sites criados por mim com o objetivo de aprimorar minhas habilidades em HTML e CSS:
 
 <a href="https://arthurvini778.github.io/Meus-sites/Site%20Android/android.html"> Site Android </a> <br>
 <a href="https://arthurvini778.github.io/Meus-sites/Site%20TEAL/index.html"> Site TEAL </a> <br>
